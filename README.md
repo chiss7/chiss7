@@ -32,7 +32,6 @@ Here are some ideas to get you started:
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=for-the-badge&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react)
   ![Next.js](https://img.shields.io/badge/next.js-333333?style=for-the-badge&logo=nextdotjs&logoColor=white)
-  ![Spring](https://img.shields.io/badge/Spring-333333?style=for-the-badge&logo=spring)
 - 🛢 &nbsp;&nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=for-the-badge&logo=mysql)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=for-the-badge&logo=postgresql)
